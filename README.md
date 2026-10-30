@@ -3,7 +3,7 @@
 Interactive Formula 1 analytics project built using Tableau Public.
 
 ## 🔗 Live Interactive Dashboard
-👉 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/avadhi.jain5644/viz/F1-Racing-dashboard1/Story1)**
+👉 **[Click Here to View Live Tableau Dashboard](https://public.tableau.com/app/profile/avadhi.jain5644/viz/F1Analytics_17933715535300/Story1)**
 
 ---
 
